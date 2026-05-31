@@ -1,3 +1,3 @@
 units_to_create = {
-    {name = '$$p_3b4f.unit.主控_1.root', is_main_hero = 0, use_default_ai = '$$spark_core.ai.testai.root', team_id = 1, random_model_index = -1, position = {x = 4096.0, y = 0.0, z = 0.0}, facing = 0, scale = {x = 1.0, y = 1.0, z = 1.0}, scene_path = '', custom_name = '主控1', node_mark = '第一关场景_1', group = '', rank = '第一关场景/8', is_item = false, item_link = '', description = '', invisible = '', unselectable = '', light_baked_enable = false, attribute = {}, },
+    {name = '$$p_3b4f.unit.主控_1.root', is_main_hero = 0, use_default_ai = '$$spark_core.ai.testai.root', team_id = 1, random_model_index = -1, position = {x = 2048.0, y = 2048.0, z = 0.0}, facing = 0, scale = {x = 1.0, y = 1.0, z = 1.0}, scene_path = '', custom_name = '主控1', node_mark = '第一关场景_1', group = '', rank = '第一关场景/8', is_item = false, item_link = '', description = '', invisible = 'false', unselectable = '', light_baked_enable = false, attribute = {}, },
 }

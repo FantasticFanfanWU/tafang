@@ -6,6 +6,6 @@ present.line["第一关路线"] = base.line({base.scene_point(2656.0, 384.0, nil
 present.rect["第一关终点"] = base.rect(base.point(2528.0, 3744.0), base.point(2720.0, 3552.0), "default")
 present.rank["rank"] = {["第一关路线"] = "第一关场景/6", ["第一关终点"] = "第一关场景/7", }
 present.description["description"] = {["第一关路线"] = "", ["第一关终点"] = "", }
-present.invisible["invisible"] = {["第一关路线"] = "false", ["第一关终点"] = "false", }
+present.invisible["invisible"] = {["第一关路线"] = "", ["第一关终点"] = "", }
 present.unselectable["unselectable"] = {["第一关路线"] = "", ["第一关终点"] = "", }
 present.link["link"] = {}
