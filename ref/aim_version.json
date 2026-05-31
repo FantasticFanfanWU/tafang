@@ -1,0 +1,14 @@
+[
+    {
+        "name":"lib_control"
+    },
+    {
+        "name":"smallcard_inventory"
+    },
+    {
+        "name":"smallcard_get_items"
+    },
+    {
+        "name":"smallcard_store"
+    }
+]

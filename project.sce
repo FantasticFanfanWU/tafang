@@ -1,0 +1,1 @@
+{"mainview_settings":{"editor_resolution_rate_index":2}}

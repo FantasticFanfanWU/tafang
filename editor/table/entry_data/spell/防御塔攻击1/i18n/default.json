@@ -1,0 +1,5 @@
+{
+    "[EntryModule][$$p_3b4f.spell.防御塔攻击1].DisplayName":"火焰塔攻击",
+    "[EntryNode][$$p_3b4f.spell.防御塔攻击1.Unit].Data.Game.Name":"投射物单位模版",
+    "[EntryNode][$$p_3b4f.spell.防御塔攻击1.root].Data.Game.Name":"火焰塔攻击"
+}

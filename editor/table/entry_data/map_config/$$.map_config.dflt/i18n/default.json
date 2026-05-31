@@ -1,0 +1,8 @@
+{
+    "[EntryNode][$$.map_config.dflt.root].Data.Game.TeamNames[100]":"队伍 100",
+    "[EntryNode][$$.map_config.dflt.root].Data.Game.TeamNames[1]":"队伍 1",
+    "[EntryNode][$$.map_config.dflt.root].Data.Game.TeamNames[2]":"队伍 2",
+    "[EntryNode][$$.map_config.dflt.root].Data.Game.player_setting[0].DisplayName":"中立",
+    "[EntryNode][$$.map_config.dflt.root].Data.Game.player_setting[1].DisplayName":"玩家 1",
+    "[EntryNode][$$.map_config.dflt.root].Data.Game.player_setting[2].DisplayName":"玩家 2"
+}

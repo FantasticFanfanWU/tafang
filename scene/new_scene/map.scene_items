@@ -1,0 +1,6168 @@
+{
+	"TerrainInfo": [
+		{
+			"name": "me_tiles_field/ground/tile_0_0_128_128",
+			"pos": {
+				"x": 128.0,
+				"y": 128.0,
+				"z": 128.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 1,
+				"BottomRight": 1,
+				"TopRight": 2,
+				"TopLeft": 2
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/decal/ground_1_1_0_0_c/008",
+			"pos": {
+				"x": 64.0,
+				"y": 128.0,
+				"z": 128.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "y2kg6c4y-kn74-uvzk-qgwt-46xkrqzyibsd"
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_1_1_0_0_d/ground_1_1_0_0_d",
+			"pos": {
+				"x": 128.0,
+				"y": 128.0,
+				"z": 128.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9xpybzkl-wqqn-xvwa-ax68-38s1h2h4odpi"
+		},
+		{
+			"name": "me_tiles_field/decal/b/004",
+			"pos": {
+				"x": 128.0,
+				"y": 128.0,
+				"z": 256.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "v0004kky-inj6-4jga-3ndu-lw2hprx6l323"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_128_0_256_256",
+			"pos": {
+				"x": 128.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 1,
+				"BottomRight": 0,
+				"TopRight": 2,
+				"TopLeft": 2
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_0_1_0_0/ground_0_1_0_0",
+			"pos": {
+				"x": 128.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "nn3vttz6-at0t-m8kn-krnr-rnx9gn7ehb3n"
+		},
+		{
+			"name": "me_tiles_field/decal/ground_1_0_0_0/000",
+			"pos": {
+				"x": 128.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.7071068286895752,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071065902709961
+			},
+			"scale": {
+				"x": 0.9999960660934448,
+				"y": 0.9999960660934448,
+				"z": 1.0
+			},
+			"uuid": "27es5g0e-bnjv-5w33-ksm3-tueyzq78aczu"
+		},
+		{
+			"name": "me_tiles_field/decal/b/002",
+			"pos": {
+				"x": 128.0,
+				"y": 384.0,
+				"z": 255.9998016357422
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "jlqgkgb6-vd0q-z6k5-bte7-v1u2bd3dh0b7"
+		},
+		{
+			"name": "me_tiles_field/decal/0/000",
+			"pos": {
+				"x": 34.0,
+				"y": 305.0,
+				"z": 128.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "haoojwtn-1a4d-2dq3-yzoy-7dh6b934rnf7"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_256_0",
+			"pos": {
+				"x": 128.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 2
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_1_1_1_0/ground_1_1_1_0",
+			"pos": {
+				"x": 128.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "8ddjpd3d-qp11-8oc8-okmf-uiwfj1ch6ec4"
+		},
+		{
+			"name": "me_tiles_field/decal/ground_1_1_1_0/001",
+			"pos": {
+				"x": 128.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "rszkd17n-z6je-dc9v-0n68-dxpj1exzvnvp"
+		},
+		{
+			"name": "me_tiles_field/decal/a/005",
+			"pos": {
+				"x": 222.0,
+				"y": 548.0,
+				"z": 255.9998016357422
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "pogoa776-8iic-fvk4-ia6p-o7ueri47lbpo"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 128.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 128.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 128.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 128.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 128.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 128.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 128.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 128.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 128.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 128.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 384.0,
+				"y": 128.0,
+				"z": 256.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 2,
+				"BottomRight": 2,
+				"TopRight": 2,
+				"TopLeft": 2
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 384.0,
+				"y": 128.0,
+				"z": 256.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 384.0,
+				"y": 384.0,
+				"z": 256.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 2,
+				"BottomRight": 2,
+				"TopRight": 2,
+				"TopLeft": 2
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 384.0,
+				"y": 384.0,
+				"z": 256.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_256_256",
+			"pos": {
+				"x": 384.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.7071067094802856,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 2,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 2
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_1_1_0_0_f/ground_1_1_0_0_f",
+			"pos": {
+				"x": 384.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "zg3u1u71-1qrs-e4tv-a0xb-em1rb7oe9mv8"
+		},
+		{
+			"name": "me_tiles_field/decal/ground_1_1_0_0_c/000",
+			"pos": {
+				"x": 384.0,
+				"y": 704.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "kb98sb0x-9dqw-n7l5-g7hm-kvjsk2z3qm1s"
+		},
+		{
+			"name": "me_tiles_field/decal/b_long/006",
+			"pos": {
+				"x": 384.0,
+				"y": 640.0,
+				"z": 256.0
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "kpl44de5-owsl-bujh-owu4-y1qfpzgalya5"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 384.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 384.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 384.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 384.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 384.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 384.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 384.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 384.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 384.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 384.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_384_128",
+			"pos": {
+				"x": 640.0,
+				"y": 128.0,
+				"z": 256.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 2,
+				"BottomRight": 2,
+				"TopRight": 5,
+				"TopLeft": 3
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_1_1_0_0_a/ground_1_1_0_0_a",
+			"pos": {
+				"x": 640.0,
+				"y": 128.0,
+				"z": 256.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "w0l4vcaq-rpfa-mnq7-miym-ul78tuur8opm"
+		},
+		{
+			"name": "me_tiles_field/decal/ground_1_1_0_0_a/005",
+			"pos": {
+				"x": 576.0,
+				"y": 128.0,
+				"z": 256.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "tzast3su-rnyo-tffh-bw6m-ajud74o234wi"
+		},
+		{
+			"name": "me_tiles_field/decal/a/000",
+			"pos": {
+				"x": 747.0,
+				"y": 226.0,
+				"z": 640.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "t6au6inu-47yj-aqq5-3e0d-miaupl4aw0qw"
+		},
+		{
+			"name": "me_tiles_field/decal/c/005",
+			"pos": {
+				"x": 704.0,
+				"y": 32.0,
+				"z": 394.99981689453127
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "bhx7yrhy-eqri-9c0z-6k6n-5etbj3kbvzhs"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_128_384",
+			"pos": {
+				"x": 640.0,
+				"y": 384.0,
+				"z": 256.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 2,
+				"BottomRight": 2,
+				"TopRight": 3,
+				"TopLeft": 5
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_1_1_0_0_a/ground_1_1_0_0_a",
+			"pos": {
+				"x": 640.0,
+				"y": 384.0,
+				"z": 256.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "6lvh3dtp-mky8-xjl3-ky6u-4vf9amlt9wri"
+		},
+		{
+			"name": "me_tiles_field/decal/ground_1_1_0_0_a/000",
+			"pos": {
+				"x": 576.0,
+				"y": 384.0,
+				"z": 256.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "w2nnr8wd-bs93-z7kh-eidc-javesvr6qlse"
+		},
+		{
+			"name": "me_tiles_field/decal/a/003",
+			"pos": {
+				"x": 707.0,
+				"y": 306.0,
+				"z": 640.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "8gbzm8g5-gog7-brlx-u3qh-hqc6b6e426rg"
+		},
+		{
+			"name": "me_tiles_field/decal/c/007",
+			"pos": {
+				"x": 704.0,
+				"y": 480.0,
+				"z": 384.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "za16hlk0-ytk0-gng7-2kjs-3nsneceyzmon"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_384_256",
+			"pos": {
+				"x": 640.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.7071067094802856,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 2,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 3
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_1_1_0_0_a/ground_1_1_0_0_a",
+			"pos": {
+				"x": 640.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "jg0t87a7-hjab-czzp-r0v5-y5zvwp6hsok5"
+		},
+		{
+			"name": "me_tiles_field/decal/ground_1_1_0_0_a/002",
+			"pos": {
+				"x": 640.0,
+				"y": 704.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "epycrita-5ts6-e16s-egw5-30m3pzz6vkym"
+		},
+		{
+			"name": "me_tiles_field/decal/a/000",
+			"pos": {
+				"x": 709.0,
+				"y": 567.0,
+				"z": 384.0
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "5jq6g583-bgxc-02ia-ez2k-gxh8gfepkzqo"
+		},
+		{
+			"name": "me_tiles_field/decal/c_long/005",
+			"pos": {
+				"x": 544.0,
+				"y": 576.0,
+				"z": 256.0
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "qicvfa6o-qlpp-iiww-hnv0-rmk1a599ibl7"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 640.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 640.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 640.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 640.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 640.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 640.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 640.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 640.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 640.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 640.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_256_384",
+			"pos": {
+				"x": 896.0,
+				"y": 128.0,
+				"z": 384.0
+			},
+			"rot": {
+				"w": -0.7071068286895752,
+				"x": -0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 3,
+				"BottomRight": 5,
+				"TopRight": 6,
+				"TopLeft": 3
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_1_1_0_0_a/ground_1_1_0_0_a",
+			"pos": {
+				"x": 896.0,
+				"y": 127.99999237060547,
+				"z": 384.0
+			},
+			"rot": {
+				"w": -0.7071068286895752,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "uns9hu5o-pl4u-4ext-uvok-4tfkrpylw6fj"
+		},
+		{
+			"name": "me_tiles_field/decal/ground_1_1_0_0_a/000",
+			"pos": {
+				"x": 896.0,
+				"y": 64.0,
+				"z": 384.0
+			},
+			"rot": {
+				"w": -0.7071068286895752,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "u0wl5rru-a7oq-9m0j-aeyc-jai2g7hm0f0q"
+		},
+		{
+			"name": "me_tiles_field/decal/a/000",
+			"pos": {
+				"x": 982.9999389648438,
+				"y": 211.9999542236328,
+				"z": 768.0
+			},
+			"rot": {
+				"w": -0.7071068286895752,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "coisyec7-vnwu-3yha-s6ns-2cckm754iw78"
+		},
+		{
+			"name": "me_tiles_field/decal/c_long/002",
+			"pos": {
+				"x": 799.9999389648438,
+				"y": 192.0,
+				"z": 640.0
+			},
+			"rot": {
+				"w": -0.7071068286895752,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "xsjvj2eg-xmsv-lkmq-phy9-o0vbj2kfg6xx"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_256_0_384_384",
+			"pos": {
+				"x": 896.0,
+				"y": 384.0,
+				"z": 384.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 5,
+				"BottomRight": 3,
+				"TopRight": 6,
+				"TopLeft": 6
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_0_1_0_0/ground_0_1_0_0",
+			"pos": {
+				"x": 896.0,
+				"y": 384.0,
+				"z": 384.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "az3avie3-yahf-sf5u-ejyu-oj8gcgpxbast"
+		},
+		{
+			"name": "me_tiles_field/decal/ground_1_0_0_0/000",
+			"pos": {
+				"x": 896.0,
+				"y": 384.0,
+				"z": 384.0
+			},
+			"rot": {
+				"w": 0.7071068286895752,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071065902709961
+			},
+			"scale": {
+				"x": 0.999996542930603,
+				"y": 0.999996542930603,
+				"z": 1.0
+			},
+			"uuid": "sxv9k15u-4jvx-9kwo-x6ec-6x0t8cxjmc9j"
+		},
+		{
+			"name": "me_tiles_field/decal/0/000",
+			"pos": {
+				"x": 896.0,
+				"y": 384.0,
+				"z": 639.9998168945313
+			},
+			"rot": {
+				"w": 0.9238793849945068,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.38268333673477175
+			},
+			"scale": {
+				"x": 0.9999996423721314,
+				"y": 0.9999996423721314,
+				"z": 1.0
+			},
+			"uuid": "2oq5plcr-1na2-l99z-8m90-xl7k26k1lxwg"
+		},
+		{
+			"name": "me_tiles_field/decal/b/009",
+			"pos": {
+				"x": 896.0,
+				"y": 384.0,
+				"z": 768.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "kz33w2ym-fexi-fxrp-u3jl-5uxhm7slmu3i"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_384_0_384_768",
+			"pos": {
+				"x": 896.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 3,
+				"BottomRight": 0,
+				"TopRight": 3,
+				"TopLeft": 6
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_0_1_0_0/ground_0_1_0_0",
+			"pos": {
+				"x": 896.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "dkwid6fj-mzjj-cwt0-pfmg-8houkvwikhux"
+		},
+		{
+			"name": "me_tiles_field/decal/ground_1_0_0_0/000",
+			"pos": {
+				"x": 896.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.7071068286895752,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071065902709961
+			},
+			"scale": {
+				"x": 0.9999951124191284,
+				"y": 0.9999951124191284,
+				"z": 1.0
+			},
+			"uuid": "pqfonkbf-h7tt-0fbi-6jct-879w0qzcrgmh"
+		},
+		{
+			"name": "me_tiles_field/decal/a_long/001",
+			"pos": {
+				"x": 981.0,
+				"y": 553.0,
+				"z": 768.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "arn00khv-u1xf-rill-jwlk-ae90xds57av1"
+		},
+		{
+			"name": "me_tiles_field/decal/d_long/003",
+			"pos": {
+				"x": 896.0,
+				"y": 640.0,
+				"z": 384.0
+			},
+			"rot": {
+				"w": 0.9238793849945068,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.38268333673477175
+			},
+			"scale": {
+				"x": 0.9999998807907105,
+				"y": 0.9999998807907105,
+				"z": 1.0
+			},
+			"uuid": "jpau89hm-xfkf-xfpc-vngo-rdon6ga42kvv"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_256_384",
+			"pos": {
+				"x": 896.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 2,
+				"TopLeft": 3
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_1_1_0_0_a/ground_1_1_0_0_a",
+			"pos": {
+				"x": 896.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "uns9hu5o-pl4u-4ext-uvok-4tfkrpylw6fj"
+		},
+		{
+			"name": "me_tiles_field/decal/ground_1_1_0_0_a/000",
+			"pos": {
+				"x": 832.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "u0wl5rru-a7oq-9m0j-aeyc-jai2g7hm0f0q"
+		},
+		{
+			"name": "me_tiles_field/decal/a/000",
+			"pos": {
+				"x": 980.0,
+				"y": 809.0,
+				"z": 384.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "coisyec7-vnwu-3yha-s6ns-2cckm754iw78"
+		},
+		{
+			"name": "me_tiles_field/decal/c_long/006",
+			"pos": {
+				"x": 960.0,
+				"y": 992.0,
+				"z": 256.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "xsjvj2eg-xmsv-lkmq-phy9-o0vbj2kfg6xx"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_0_256",
+			"pos": {
+				"x": 896.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 2
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_1_1_1_0/ground_1_1_1_0",
+			"pos": {
+				"x": 896.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "j23fni49-2dhk-xu7s-kn6j-down83fzzim4"
+		},
+		{
+			"name": "me_tiles_field/decal/ground_1_1_1_0/000",
+			"pos": {
+				"x": 896.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "c1qopa27-k6ls-jppu-1tco-qv6u7ze5qyik"
+		},
+		{
+			"name": "me_tiles_field/decal/a/002",
+			"pos": {
+				"x": 984.0,
+				"y": 1060.0,
+				"z": 256.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "wo08frv9-jclu-b0uv-5s8w-mcpxv6q4tdhy"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 896.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 896.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 896.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 896.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 896.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 896.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_128_0_384_384",
+			"pos": {
+				"x": 1152.0,
+				"y": 128.0,
+				"z": 384.0
+			},
+			"rot": {
+				"w": -0.7071068286895752,
+				"x": -0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 3,
+				"BottomRight": 6,
+				"TopRight": 6,
+				"TopLeft": 4
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_0_1_0_0/ground_0_1_0_0",
+			"pos": {
+				"x": 1152.0,
+				"y": 127.99999237060547,
+				"z": 384.0
+			},
+			"rot": {
+				"w": -0.7071068286895752,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "nfq8juc3-j8s6-1fnx-2n1g-wyiu045hci4s"
+		},
+		{
+			"name": "me_tiles_field/decal/ground_1_0_0_0/000",
+			"pos": {
+				"x": 1152.0,
+				"y": 127.99999237060547,
+				"z": 384.0
+			},
+			"rot": {
+				"w": -1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -5.960464477539063e-8
+			},
+			"scale": {
+				"x": 0.999996542930603,
+				"y": 0.999996542930603,
+				"z": 1.0
+			},
+			"uuid": "1zoygg6h-u26c-kinh-w0s5-qn9jyoowe8x8"
+		},
+		{
+			"name": "me_tiles_field/decal/0/000",
+			"pos": {
+				"x": 1152.0,
+				"y": 127.99999237060547,
+				"z": 512.0
+			},
+			"rot": {
+				"w": -0.7071068286895752,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "6z5oy3n9-4y9e-jjgx-nuc4-tefxhiginf8b"
+		},
+		{
+			"name": "me_tiles_field/decal/b_long/002",
+			"pos": {
+				"x": 1152.0,
+				"y": 127.99999237060547,
+				"z": 768.0
+			},
+			"rot": {
+				"w": -0.7071068286895752,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "faumvq8x-tkpj-52hy-q5db-bflopo8py0ir"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_256_0_256_256",
+			"pos": {
+				"x": 1152.0,
+				"y": 384.0,
+				"z": 512.0
+			},
+			"rot": {
+				"w": 0.7071067094802856,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 6,
+				"BottomRight": 6,
+				"TopRight": 4,
+				"TopLeft": 6
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_0_1_0_0/ground_0_1_0_0",
+			"pos": {
+				"x": 1152.0,
+				"y": 384.0,
+				"z": 512.0
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "qoz7n0lk-5wzw-l472-lm4y-qjnlj6q2bugq"
+		},
+		{
+			"name": "me_tiles_field/decal/ground_1_0_0_0/000",
+			"pos": {
+				"x": 1152.0,
+				"y": 384.0,
+				"z": 512.0
+			},
+			"rot": {
+				"w": 0.010202765464782715,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.9999479055404663
+			},
+			"scale": {
+				"x": 0.98020339012146,
+				"y": 0.98020339012146,
+				"z": 1.0
+			},
+			"uuid": "91sreqnc-i6gw-2i2k-lwxy-651f22sjztxg"
+		},
+		{
+			"name": "me_tiles_field/decal/d/004",
+			"pos": {
+				"x": 1152.0,
+				"y": 384.0,
+				"z": 767.9998168945313
+			},
+			"rot": {
+				"w": 0.3826833963394165,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.9238793849945068
+			},
+			"scale": {
+				"x": 0.9999996423721314,
+				"y": 0.9999996423721314,
+				"z": 1.0
+			},
+			"uuid": "ejeuhej4-x9sn-ky9d-c9g8-cozzxlqbha3v"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_256_0_384_640",
+			"pos": {
+				"x": 1152.0,
+				"y": 640.0,
+				"z": 128.0
+			},
+			"rot": {
+				"w": 0.7071067094802856,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 1,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 6,
+				"BottomRight": 3,
+				"TopRight": 1,
+				"TopLeft": 4
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/water_0_1_0_0/water_0_1_0_0",
+			"pos": {
+				"x": 1152.0,
+				"y": 640.0,
+				"z": 128.0
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "3vzojydp-kb5f-8eji-wgk1-4wwidh50o0mg"
+		},
+		{
+			"name": "me_tiles_field/decal/water_1_0_0_0/003",
+			"pos": {
+				"x": 1152.0,
+				"y": 640.0,
+				"z": 128.0
+			},
+			"rot": {
+				"w": 0.010202676057815552,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.9999479055404663
+			},
+			"scale": {
+				"x": 0.98020339012146,
+				"y": 0.98020339012146,
+				"z": 1.0
+			},
+			"uuid": "2sfu7ezo-0g3r-8hxp-0opn-58i4q9h1frh6"
+		},
+		{
+			"name": "me_tiles_field/decal/0/000",
+			"pos": {
+				"x": 1047.0,
+				"y": 745.9999389648438,
+				"z": 383.99981689453127
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "8i8nklsw-2s5w-2vms-4tm3-ixltavif5c3u"
+		},
+		{
+			"name": "me_tiles_field/decal/0/000",
+			"pos": {
+				"x": 1152.0,
+				"y": 640.0,
+				"z": 383.99981689453127
+			},
+			"rot": {
+				"w": 0.3826833963394165,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.9238793849945068
+			},
+			"scale": {
+				"x": 0.9999996423721314,
+				"y": 0.9999996423721314,
+				"z": 1.0
+			},
+			"uuid": "viu1ffij-lbdd-qklv-o2k4-rc97rhb1je4p"
+		},
+		{
+			"name": "me_tiles_field/decal/a/000",
+			"pos": {
+				"x": 1245.0,
+				"y": 546.0,
+				"z": 512.0
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "pq6xbzlh-21lx-dp9j-zgpj-hw776hodkbaz"
+		},
+		{
+			"name": "me_tiles_field/decal/a_long/000",
+			"pos": {
+				"x": 1056.0,
+				"y": 546.0,
+				"z": 768.0
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "40lpo5yx-s6q4-y5vn-bfb8-r9uhu4etkgly"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_128_0_256_128",
+			"pos": {
+				"x": 1152.0,
+				"y": 896.0,
+				"z": 128.0
+			},
+			"rot": {
+				"w": -8.74227694680485e-8,
+				"x": -0.0,
+				"y": 0.0,
+				"z": -0.9999998211860657
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 1
+			},
+			"PointHeight": {
+				"BottomLeft": 3,
+				"BottomRight": 2,
+				"TopRight": 2,
+				"TopLeft": 1
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/water_0_1_0_0/water_0_1_0_0",
+			"pos": {
+				"x": 1152.0,
+				"y": 896.0,
+				"z": 128.0
+			},
+			"rot": {
+				"w": -8.742277657347586e-8,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.9999998211860657
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "oc7uy0fs-u2az-ppes-w96e-fpnp8sxj8smn"
+		},
+		{
+			"name": "me_tiles_field/decal/water_1_0_0_0/008",
+			"pos": {
+				"x": 1152.0,
+				"y": 896.0,
+				"z": 128.0
+			},
+			"rot": {
+				"w": -0.699855625629425,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7142842411994934
+			},
+			"scale": {
+				"x": 0.9802036881446838,
+				"y": 0.9802036881446838,
+				"z": 1.0
+			},
+			"uuid": "d1glt7ju-x69o-yltc-oxmp-xolgctvihpc5"
+		},
+		{
+			"name": "me_tiles_field/decal/a/004",
+			"pos": {
+				"x": 1066.9998779296876,
+				"y": 809.0000610351563,
+				"z": 383.99981689453127
+			},
+			"rot": {
+				"w": -8.742277657347586e-8,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.9999998211860657
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "hyaombxe-jupl-6eoq-qwzt-irte1daz8ct2"
+		},
+		{
+			"name": "me_tiles_field/decal/e/005",
+			"pos": {
+				"x": 1152.0,
+				"y": 896.0,
+				"z": 256.0
+			},
+			"rot": {
+				"w": 0.7409497499465942,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.6715603470802307
+			},
+			"scale": {
+				"x": 0.9999977946281433,
+				"y": 0.9999977946281433,
+				"z": 1.0
+			},
+			"uuid": "8tze7vx7-sbkp-lbcx-lt7k-umu0gbc5eumz"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_256_0_256_256",
+			"pos": {
+				"x": 1152.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 2,
+				"BottomRight": 0,
+				"TopRight": 2,
+				"TopLeft": 2
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_0_1_0_0/ground_0_1_0_0",
+			"pos": {
+				"x": 1152.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "qoz7n0lk-5wzw-l472-lm4y-qjnlj6q2bugq"
+		},
+		{
+			"name": "me_tiles_field/decal/ground_1_0_0_0/000",
+			"pos": {
+				"x": 1152.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.714284360408783,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.6998555064201355
+			},
+			"scale": {
+				"x": 0.98020339012146,
+				"y": 0.98020339012146,
+				"z": 1.0
+			},
+			"uuid": "91sreqnc-i6gw-2i2k-lwxy-651f22sjztxg"
+		},
+		{
+			"name": "me_tiles_field/decal/d/005",
+			"pos": {
+				"x": 1152.0,
+				"y": 1152.0,
+				"z": 255.9998016357422
+			},
+			"rot": {
+				"w": 0.9238793849945068,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.38268333673477175
+			},
+			"scale": {
+				"x": 0.9999996423721314,
+				"y": 0.9999996423721314,
+				"z": 1.0
+			},
+			"uuid": "ejeuhej4-x9sn-ky9d-c9g8-cozzxlqbha3v"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_256_0",
+			"pos": {
+				"x": 1152.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 2
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_1_1_1_0/ground_1_1_1_0",
+			"pos": {
+				"x": 1152.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "8ddjpd3d-qp11-8oc8-okmf-uiwfj1ch6ec4"
+		},
+		{
+			"name": "me_tiles_field/decal/ground_1_1_1_0/000",
+			"pos": {
+				"x": 1152.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "rszkd17n-z6je-dc9v-0n68-dxpj1exzvnvp"
+		},
+		{
+			"name": "me_tiles_field/decal/a/003",
+			"pos": {
+				"x": 1246.0,
+				"y": 1316.0,
+				"z": 255.9998016357422
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "pogoa776-8iic-fvk4-ia6p-o7ueri47lbpo"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1152.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1152.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1152.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1152.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_128_384_384",
+			"pos": {
+				"x": 1408.0,
+				"y": 128.0,
+				"z": 384.0
+			},
+			"rot": {
+				"w": -0.7071068286895752,
+				"x": -0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 4,
+				"BottomRight": 6,
+				"TopRight": 6,
+				"TopLeft": 3
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_1_0_0_0/ground_1_0_0_0",
+			"pos": {
+				"x": 1408.0,
+				"y": 127.99999237060547,
+				"z": 384.0
+			},
+			"rot": {
+				"w": -0.7071068286895752,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "wt0hdizc-y674-j1pm-dk6l-5eb7ssfrz1np"
+		},
+		{
+			"name": "me_tiles_field/decal/ground_1_0_0_0/000",
+			"pos": {
+				"x": 1408.0,
+				"y": 127.99999237060547,
+				"z": 384.0
+			},
+			"rot": {
+				"w": -0.7071068286895752,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "d6ihyqb5-e6bu-abod-qcay-428g1g6ad4cq"
+		},
+		{
+			"name": "me_tiles_field/decal/0/000",
+			"pos": {
+				"x": 1408.0,
+				"y": 127.99999237060547,
+				"z": 512.0
+			},
+			"rot": {
+				"w": -0.7071068286895752,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "mife5bx5-g820-0p8v-si74-kixeqfcxfcmi"
+		},
+		{
+			"name": "me_tiles_field/decal/b_long/005",
+			"pos": {
+				"x": 1408.0,
+				"y": 127.99999237060547,
+				"z": 768.0
+			},
+			"rot": {
+				"w": -0.7071068286895752,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "cj1xztzd-css0-cks9-3s99-byzrjct24pid"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_256_256_a",
+			"pos": {
+				"x": 1408.0,
+				"y": 384.0,
+				"z": 512.0
+			},
+			"rot": {
+				"w": 0.7071067094802856,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 6,
+				"BottomRight": 4,
+				"TopRight": 4,
+				"TopLeft": 6
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_1_1_0_0_c/ground_1_1_0_0_c",
+			"pos": {
+				"x": 1408.0,
+				"y": 384.0,
+				"z": 512.0
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "umdo9lrh-jehx-nfq1-877c-ci1avlz6pz9d"
+		},
+		{
+			"name": "me_tiles_field/decal/ground_1_1_0_0_c/000",
+			"pos": {
+				"x": 1408.0,
+				"y": 447.9999694824219,
+				"z": 512.0
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "8kz4x8w4-8s9z-pcnm-i98d-z5k2lniia1cc"
+		},
+		{
+			"name": "me_tiles_field/decal/b_long/003",
+			"pos": {
+				"x": 1408.0,
+				"y": 384.0,
+				"z": 768.0
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "kewxxezp-nvei-a1bb-f3er-b688ic8cumrx"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_384_384_a",
+			"pos": {
+				"x": 1408.0,
+				"y": 640.0,
+				"z": 128.0
+			},
+			"rot": {
+				"w": 0.7071067094802856,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 1,
+				"TopRight": 1,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 4,
+				"BottomRight": 1,
+				"TopRight": 1,
+				"TopLeft": 4
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/water_1_1_0_0_e/water_1_1_0_0_e",
+			"pos": {
+				"x": 1408.0,
+				"y": 640.0,
+				"z": 128.0
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "m70cmdkd-2e8v-9ko4-l7eu-b6b27e9yzr6v"
+		},
+		{
+			"name": "me_tiles_field/decal/water_1_1_0_0_c/000",
+			"pos": {
+				"x": 1408.0,
+				"y": 704.0,
+				"z": 128.0
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9opmuegl-q8pe-eqp0-9zmt-yv7b8pymf5lx"
+		},
+		{
+			"name": "me_tiles_field/decal/b_long/004",
+			"pos": {
+				"x": 1408.0,
+				"y": 640.0,
+				"z": 512.0
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "j7ru7dhe-lm53-zwjs-de9s-i9nqvy8824sq"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_0_128",
+			"pos": {
+				"x": 1408.0,
+				"y": 896.0,
+				"z": 128.0
+			},
+			"rot": {
+				"w": -8.74227694680485e-8,
+				"x": -0.0,
+				"y": 0.0,
+				"z": -0.9999998211860657
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 1,
+				"BottomRight": 0,
+				"TopRight": 1,
+				"TopLeft": 1
+			},
+			"PointHeight": {
+				"BottomLeft": 1,
+				"BottomRight": 2,
+				"TopRight": 1,
+				"TopLeft": 1
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/water_1_1_1_0/water_1_1_1_0",
+			"pos": {
+				"x": 1408.0,
+				"y": 896.0,
+				"z": 128.0
+			},
+			"rot": {
+				"w": -8.742277657347586e-8,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.9999998211860657
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "isbnl075-m1yb-m7ja-lga3-ddq72d77uuun"
+		},
+		{
+			"name": "me_tiles_field/decal/water_1_1_1_0/000",
+			"pos": {
+				"x": 1408.0,
+				"y": 896.0,
+				"z": 128.0
+			},
+			"rot": {
+				"w": -8.742277657347586e-8,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.9999998211860657
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "vxidf9w4-4boh-0g1y-ycnu-dek05nazo7u5"
+		},
+		{
+			"name": "me_tiles_field/decal/a/000",
+			"pos": {
+				"x": 1328.000244140625,
+				"y": 987.0,
+				"z": 256.0
+			},
+			"rot": {
+				"w": -8.742277657347586e-8,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.9999998211860657
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "4lgtm8bq-gvz5-zyk5-wxtn-0szl0nbf63j9"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_128_0_128_128",
+			"pos": {
+				"x": 1408.0,
+				"y": 1152.0,
+				"z": 128.0
+			},
+			"rot": {
+				"w": -8.74227694680485e-8,
+				"x": -0.0,
+				"y": 0.0,
+				"z": -0.9999998211860657
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 1
+			},
+			"PointHeight": {
+				"BottomLeft": 2,
+				"BottomRight": 2,
+				"TopRight": 2,
+				"TopLeft": 1
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/water_0_1_0_0/water_0_1_0_0",
+			"pos": {
+				"x": 1408.0,
+				"y": 1152.0,
+				"z": 128.0
+			},
+			"rot": {
+				"w": -8.742277657347586e-8,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.9999998211860657
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "5uwvfk5s-voss-2miw-834c-6t9y1jxz3iv2"
+		},
+		{
+			"name": "me_tiles_field/decal/water_1_0_0_0/000",
+			"pos": {
+				"x": 1408.0,
+				"y": 1152.0,
+				"z": 128.0
+			},
+			"rot": {
+				"w": -0.699855625629425,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7142842411994934
+			},
+			"scale": {
+				"x": 0.9802036881446838,
+				"y": 0.9802036881446838,
+				"z": 1.0
+			},
+			"uuid": "1d9mrtz6-4g97-pjp7-0tgv-jlja7n1byksr"
+		},
+		{
+			"name": "me_tiles_field/decal/d/010",
+			"pos": {
+				"x": 1408.0,
+				"y": 1152.0,
+				"z": 256.0
+			},
+			"rot": {
+				"w": -0.3826832175254822,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.9238795638084412
+			},
+			"scale": {
+				"x": 0.9999997615814209,
+				"y": 0.9999997615814209,
+				"z": 1.0
+			},
+			"uuid": "z6o3fqdf-aysg-224k-fm5h-fxttp6npqyzn"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_256_256",
+			"pos": {
+				"x": 1408.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.7071067094802856,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 2,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 2
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_1_1_0_0_f/ground_1_1_0_0_f",
+			"pos": {
+				"x": 1408.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "zg3u1u71-1qrs-e4tv-a0xb-em1rb7oe9mv8"
+		},
+		{
+			"name": "me_tiles_field/decal/ground_1_1_0_0_c/000",
+			"pos": {
+				"x": 1408.0,
+				"y": 1472.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "kb98sb0x-9dqw-n7l5-g7hm-kvjsk2z3qm1s"
+		},
+		{
+			"name": "me_tiles_field/decal/b_long/008",
+			"pos": {
+				"x": 1408.0,
+				"y": 1408.0,
+				"z": 256.0
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "kpl44de5-owsl-bujh-owu4-y1qfpzgalya5"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1408.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1408.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1408.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1408.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_384_0_128_512",
+			"pos": {
+				"x": 1664.0,
+				"y": 128.0,
+				"z": 256.0
+			},
+			"rot": {
+				"w": -0.7071068286895752,
+				"x": -0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 3,
+				"BottomRight": 6,
+				"TopRight": 5,
+				"TopLeft": 2
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_1_0_0_0/ground_1_0_0_0",
+			"pos": {
+				"x": 1664.0,
+				"y": 127.99999237060547,
+				"z": 256.0
+			},
+			"rot": {
+				"w": -0.7071068286895752,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "v4e796dy-td20-f4go-7zxo-7wj6pj70g1tp"
+		},
+		{
+			"name": "me_tiles_field/decal/ground_1_0_0_0/000",
+			"pos": {
+				"x": 1664.0,
+				"y": 127.99999237060547,
+				"z": 256.0
+			},
+			"rot": {
+				"w": -0.7071068286895752,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "4yw3dtn1-cocw-m84u-p6rj-hfpgid28qhut"
+		},
+		{
+			"name": "me_tiles_field/decal/0/000",
+			"pos": {
+				"x": 1664.0,
+				"y": 127.99999237060547,
+				"z": 384.0
+			},
+			"rot": {
+				"w": -0.7071068286895752,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "980zfhcj-hay7-obdg-n5jj-jnvsss9o2pda"
+		},
+		{
+			"name": "me_tiles_field/decal/a/003",
+			"pos": {
+				"x": 1572.0,
+				"y": 200.99998474121095,
+				"z": 768.0
+			},
+			"rot": {
+				"w": -0.7071068286895752,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "2qjzgr8t-twae-cgr3-e2ny-jo4qwkgo38ij"
+		},
+		{
+			"name": "me_tiles_field/decal/c_long/001",
+			"pos": {
+				"x": 1760.0,
+				"y": 191.99996948242188,
+				"z": 640.0
+			},
+			"rot": {
+				"w": -0.7071068286895752,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "ldwjai57-qcqa-pze9-4bcl-fwagj6jr5do1"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_128_128_256",
+			"pos": {
+				"x": 1664.0,
+				"y": 384.0,
+				"z": 512.0
+			},
+			"rot": {
+				"w": 0.7071067094802856,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 6,
+				"BottomRight": 4,
+				"TopRight": 5,
+				"TopLeft": 5
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_1_0_0_0/ground_1_0_0_0",
+			"pos": {
+				"x": 1664.0,
+				"y": 384.0,
+				"z": 512.0
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "nrvqj1e5-p9qm-z5ci-5kh5-9aseed480qrn"
+		},
+		{
+			"name": "me_tiles_field/decal/ground_1_0_0_0/000",
+			"pos": {
+				"x": 1664.0,
+				"y": 384.0,
+				"z": 512.0
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "i3feevjt-lyer-una6-ojoq-qtunzmceblnp"
+		},
+		{
+			"name": "me_tiles_field/decal/a/000",
+			"pos": {
+				"x": 1578.9998779296876,
+				"y": 292.0,
+				"z": 767.9998168945313
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "kn72ofw1-iysw-z5ag-znam-jswkiuuk3n19"
+		},
+		{
+			"name": "me_tiles_field/decal/e/006",
+			"pos": {
+				"x": 1664.0,
+				"y": 384.0,
+				"z": 640.0
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "ds6gawt0-r8nf-9ito-0avl-wde8g00khd6b"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_384_0_128_512",
+			"pos": {
+				"x": 1664.0,
+				"y": 640.0,
+				"z": 128.0
+			},
+			"rot": {
+				"w": 0.7071067094802856,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 1,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 4,
+				"BottomRight": 1,
+				"TopRight": 2,
+				"TopLeft": 5
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/water_1_0_0_0/water_1_0_0_0",
+			"pos": {
+				"x": 1664.0,
+				"y": 640.0,
+				"z": 128.0
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "w6i8ipsw-wbot-6wdq-jboi-t3xtsgn8672k"
+		},
+		{
+			"name": "me_tiles_field/decal/water_1_0_0_0/000",
+			"pos": {
+				"x": 1664.0,
+				"y": 640.0,
+				"z": 128.0
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "ubjptxf4-89lj-bga7-50iu-2v4v9p9baoho"
+		},
+		{
+			"name": "me_tiles_field/decal/0/000",
+			"pos": {
+				"x": 1664.0,
+				"y": 640.0,
+				"z": 256.0
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "980zfhcj-hay7-obdg-n5jj-jnvsss9o2pda"
+		},
+		{
+			"name": "me_tiles_field/decal/a/000",
+			"pos": {
+				"x": 1756.0,
+				"y": 567.0,
+				"z": 640.0
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "2qjzgr8t-twae-cgr3-e2ny-jo4qwkgo38ij"
+		},
+		{
+			"name": "me_tiles_field/decal/c_long/002",
+			"pos": {
+				"x": 1568.0,
+				"y": 576.0,
+				"z": 512.0
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "ldwjai57-qcqa-pze9-4bcl-fwagj6jr5do1"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_128_128_a",
+			"pos": {
+				"x": 1664.0,
+				"y": 896.0,
+				"z": 128.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 1,
+				"BottomRight": 1,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 1,
+				"BottomRight": 1,
+				"TopRight": 2,
+				"TopLeft": 2
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/water_1_1_0_0_b/water_1_1_0_0_b",
+			"pos": {
+				"x": 1664.0,
+				"y": 896.0,
+				"z": 128.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "nlafm7l4-5jm2-u8dz-lzl5-vjnppbgd1fjf"
+		},
+		{
+			"name": "me_tiles_field/decal/water_1_1_0_0_b/011",
+			"pos": {
+				"x": 1600.0,
+				"y": 896.0,
+				"z": 128.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "op2zlxw3-daz0-jsrs-ufnq-15qx6709qjn2"
+		},
+		{
+			"name": "me_tiles_field/decal/b/008",
+			"pos": {
+				"x": 1664.0,
+				"y": 896.0,
+				"z": 256.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "dcie3n8n-nzth-guh6-kfme-nitscolu2wi2"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_128_0_128_128",
+			"pos": {
+				"x": 1664.0,
+				"y": 1152.0,
+				"z": 128.0
+			},
+			"rot": {
+				"w": -0.7071068286895752,
+				"x": -0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 1,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 1,
+				"BottomRight": 2,
+				"TopRight": 2,
+				"TopLeft": 2
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/water_0_1_0_0/water_0_1_0_0",
+			"pos": {
+				"x": 1664.0,
+				"y": 1152.0,
+				"z": 128.0
+			},
+			"rot": {
+				"w": -0.7071068286895752,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "5uwvfk5s-voss-2miw-834c-6t9y1jxz3iv2"
+		},
+		{
+			"name": "me_tiles_field/decal/water_1_0_0_0/000",
+			"pos": {
+				"x": 1664.0,
+				"y": 1152.0,
+				"z": 128.0
+			},
+			"rot": {
+				"w": -0.9999479055404663,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.010202556848526001
+			},
+			"scale": {
+				"x": 0.9802032113075256,
+				"y": 0.9802032113075256,
+				"z": 1.0
+			},
+			"uuid": "1d9mrtz6-4g97-pjp7-0tgv-jlja7n1byksr"
+		},
+		{
+			"name": "me_tiles_field/decal/d/007",
+			"pos": {
+				"x": 1664.0,
+				"y": 1152.0,
+				"z": 256.0
+			},
+			"rot": {
+				"w": -0.9238795042037964,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.38268372416496279
+			},
+			"scale": {
+				"x": 0.9999995827674866,
+				"y": 0.9999995827674866,
+				"z": 1.0
+			},
+			"uuid": "z6o3fqdf-aysg-224k-fm5h-fxttp6npqyzn"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_256_256_a",
+			"pos": {
+				"x": 1664.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.7071067094802856,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 2,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 2
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_1_1_0_0_c/ground_1_1_0_0_c",
+			"pos": {
+				"x": 1664.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "umdo9lrh-jehx-nfq1-877c-ci1avlz6pz9d"
+		},
+		{
+			"name": "me_tiles_field/decal/ground_1_1_0_0_c/000",
+			"pos": {
+				"x": 1664.0,
+				"y": 1471.9998779296876,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "8kz4x8w4-8s9z-pcnm-i98d-z5k2lniia1cc"
+		},
+		{
+			"name": "me_tiles_field/decal/b_long/007",
+			"pos": {
+				"x": 1664.0,
+				"y": 1408.0,
+				"z": 256.0
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "kewxxezp-nvei-a1bb-f3er-b688ic8cumrx"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_0_128",
+			"pos": {
+				"x": 1664.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": -0.7071068286895752,
+				"x": -0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 1,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_1_1_1_0/ground_1_1_1_0",
+			"pos": {
+				"x": 1664.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": -0.7071068286895752,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "qq7e0j9c-6n0s-zous-50fj-hwa40otfjolc"
+		},
+		{
+			"name": "me_tiles_field/decal/ground_1_1_1_0/000",
+			"pos": {
+				"x": 1664.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": -0.7071068286895752,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "0vgixnaz-8m58-wk4f-vcfz-db45ki1k889i"
+		},
+		{
+			"name": "me_tiles_field/decal/a/001",
+			"pos": {
+				"x": 1754.9998779296876,
+				"y": 1744.0,
+				"z": 128.0
+			},
+			"rot": {
+				"w": -0.7071068286895752,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "4lgtm8bq-gvz5-zyk5-wxtn-0szl0nbf63j9"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_0_128",
+			"pos": {
+				"x": 1664.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 1
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_1_1_1_0/ground_1_1_1_0",
+			"pos": {
+				"x": 1664.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "qq7e0j9c-6n0s-zous-50fj-hwa40otfjolc"
+		},
+		{
+			"name": "me_tiles_field/decal/ground_1_1_1_0/000",
+			"pos": {
+				"x": 1664.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "0vgixnaz-8m58-wk4f-vcfz-db45ki1k889i"
+		},
+		{
+			"name": "me_tiles_field/decal/a/000",
+			"pos": {
+				"x": 1744.0,
+				"y": 1829.0,
+				"z": 128.0
+			},
+			"rot": {
+				"w": 0.9999998807907105,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "4lgtm8bq-gvz5-zyk5-wxtn-0szl0nbf63j9"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_256_0_256_640",
+			"pos": {
+				"x": 1920.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": -8.74227694680485e-8,
+				"x": -0.0,
+				"y": 0.0,
+				"z": -0.9999998211860657
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 2,
+				"BottomRight": 5,
+				"TopRight": 2,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_0_1_0_0/ground_0_1_0_0",
+			"pos": {
+				"x": 1920.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": -8.742277657347586e-8,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.9999998211860657
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "k85iex88-m2mz-u36m-fvum-yanaefvzfaux"
+		},
+		{
+			"name": "me_tiles_field/decal/ground_1_0_0_0/000",
+			"pos": {
+				"x": 1920.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": -0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071067690849304
+			},
+			"scale": {
+				"x": 0.9999961853027344,
+				"y": 0.9999961853027344,
+				"z": 1.0
+			},
+			"uuid": "av2yaf0q-y287-oqk2-i839-bgreweykze9k"
+		},
+		{
+			"name": "me_tiles_field/decal/d/006",
+			"pos": {
+				"x": 1936.0,
+				"y": 128.0,
+				"z": 256.0
+			},
+			"rot": {
+				"w": -0.3826834559440613,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.9238793253898621
+			},
+			"scale": {
+				"x": 0.9999998211860657,
+				"y": 0.9999998211860657,
+				"z": 1.0
+			},
+			"uuid": "5vcxv49k-bj4t-kfrm-q2in-z5hk978608z6"
+		},
+		{
+			"name": "me_tiles_field/decal/a_long/001",
+			"pos": {
+				"x": 1829.000244140625,
+				"y": 216.9999542236328,
+				"z": 640.0
+			},
+			"rot": {
+				"w": -8.742277657347586e-8,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.9999998211860657
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "flkcfsjr-4556-rure-b6qo-ig1nu6vt8ozd"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_384_384",
+			"pos": {
+				"x": 1920.0,
+				"y": 384.0,
+				"z": 256.0
+			},
+			"rot": {
+				"w": -8.74227694680485e-8,
+				"x": -0.0,
+				"y": 0.0,
+				"z": -0.9999998211860657
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 5,
+				"BottomRight": 5,
+				"TopRight": 2,
+				"TopLeft": 2
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_1_1_0_0_a/ground_1_1_0_0_a",
+			"pos": {
+				"x": 1920.0,
+				"y": 384.0,
+				"z": 256.0
+			},
+			"rot": {
+				"w": -8.742277657347586e-8,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.9999998211860657
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "0m8ces4t-ysaq-vgrl-r6x5-xz9ilw9ph7v6"
+		},
+		{
+			"name": "me_tiles_field/decal/ground_1_1_0_0_a/009",
+			"pos": {
+				"x": 1984.0001220703126,
+				"y": 384.0,
+				"z": 256.0
+			},
+			"rot": {
+				"w": -8.742277657347586e-8,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.9999998211860657
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "rahhlr32-v3u9-js2o-1xq2-i6mcbrp1etw8"
+		},
+		{
+			"name": "me_tiles_field/decal/b_long/002",
+			"pos": {
+				"x": 1920.0,
+				"y": 384.0,
+				"z": 640.0
+			},
+			"rot": {
+				"w": -8.742277657347586e-8,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.9999998211860657
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9d53vqak-z3ny-er8z-ttbj-9gvi9fkk1l7v"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_128_0_128_512",
+			"pos": {
+				"x": 1920.0,
+				"y": 640.0,
+				"z": 128.0
+			},
+			"rot": {
+				"w": 0.7071067094802856,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 5,
+				"BottomRight": 2,
+				"TopRight": 1,
+				"TopLeft": 2
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_0_1_0_0/ground_0_1_0_0",
+			"pos": {
+				"x": 1920.0,
+				"y": 640.0,
+				"z": 128.0
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "ihlduq28-dwtp-9ge2-x2wm-mxjc3s1zrb4h"
+		},
+		{
+			"name": "me_tiles_field/decal/ground_1_0_0_0/000",
+			"pos": {
+				"x": 1920.0,
+				"y": 640.0,
+				"z": 128.0
+			},
+			"rot": {
+				"w": 1.4901161193847657e-7,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.9999998807907105
+			},
+			"scale": {
+				"x": 0.9999970197677612,
+				"y": 0.9999970197677612,
+				"z": 1.0
+			},
+			"uuid": "id47t7l5-y9g3-cpfz-x9hg-ga7a58vaqxvw"
+		},
+		{
+			"name": "me_tiles_field/decal/d/001",
+			"pos": {
+				"x": 1920.0,
+				"y": 640.0,
+				"z": 256.0
+			},
+			"rot": {
+				"w": 0.3826833963394165,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.9238793849945068
+			},
+			"scale": {
+				"x": 0.9999998807907105,
+				"y": 0.9999998807907105,
+				"z": 1.0
+			},
+			"uuid": "dcnfib37-xltl-maar-we1t-mp3mixn3t7ep"
+		},
+		{
+			"name": "me_tiles_field/decal/a_long/001",
+			"pos": {
+				"x": 1819.0,
+				"y": 563.0000610351563,
+				"z": 640.0
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "7d63ogy0-quin-v81j-a1a9-e5g5ies7d25c"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_128_256_256",
+			"pos": {
+				"x": 1920.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": -8.74227694680485e-8,
+				"x": -0.0,
+				"y": 0.0,
+				"z": -0.9999998211860657
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 2,
+				"BottomRight": 2,
+				"TopRight": 0,
+				"TopLeft": 1
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_1_0_0_0/ground_1_0_0_0",
+			"pos": {
+				"x": 1920.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": -8.742277657347586e-8,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.9999998211860657
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "m0g9pv7v-ybrd-wd93-lzv3-nbxe8tmt5hk3"
+		},
+		{
+			"name": "me_tiles_field/decal/ground_1_0_0_0/000",
+			"pos": {
+				"x": 1920.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": -8.742277657347586e-8,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.9999998211860657
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "3wm39vdg-whlj-r0gl-qovp-yfg4r08cg0eq"
+		},
+		{
+			"name": "me_tiles_field/decal/b/007",
+			"pos": {
+				"x": 1920.0,
+				"y": 896.0,
+				"z": 255.9998016357422
+			},
+			"rot": {
+				"w": -8.742277657347586e-8,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.9999998211860657
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "q6fj8wnt-mq4t-pvtw-lkau-43v2ioubts5b"
+		},
+		{
+			"name": "me_tiles_field/decal/0/000",
+			"pos": {
+				"x": 2013.9998779296876,
+				"y": 815.0030517578125,
+				"z": 128.0
+			},
+			"rot": {
+				"w": -8.742277657347586e-8,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.9999998211860657
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "cdlh5dre-z60s-clmv-zqiw-ug9921udogxm"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_256_256",
+			"pos": {
+				"x": 1920.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": -8.74227694680485e-8,
+				"x": -0.0,
+				"y": 0.0,
+				"z": -0.9999998211860657
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 2,
+				"BottomRight": 2,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_1_1_0_0_f/ground_1_1_0_0_f",
+			"pos": {
+				"x": 1920.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": -8.742277657347586e-8,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.9999998211860657
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "zg3u1u71-1qrs-e4tv-a0xb-em1rb7oe9mv8"
+		},
+		{
+			"name": "me_tiles_field/decal/ground_1_1_0_0_c/000",
+			"pos": {
+				"x": 1984.0001220703126,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": -8.742277657347586e-8,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.9999998211860657
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "kb98sb0x-9dqw-n7l5-g7hm-kvjsk2z3qm1s"
+		},
+		{
+			"name": "me_tiles_field/decal/b_long/002",
+			"pos": {
+				"x": 1920.0,
+				"y": 1152.0,
+				"z": 256.0
+			},
+			"rot": {
+				"w": -8.742277657347586e-8,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.9999998211860657
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "kpl44de5-owsl-bujh-owu4-y1qfpzgalya5"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_128_0_256_0",
+			"pos": {
+				"x": 1920.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": -8.74227694680485e-8,
+				"x": -0.0,
+				"y": 0.0,
+				"z": -0.9999998211860657
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 2,
+				"BottomRight": 0,
+				"TopRight": 1,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_0_1_0_0/ground_0_1_0_0",
+			"pos": {
+				"x": 1920.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": -8.742277657347586e-8,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.9999998211860657
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "pa5xmqn4-w1fq-4lke-ya01-1xvpzjarkzoq"
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_1_0_0_0/ground_1_0_0_0",
+			"pos": {
+				"x": 1920.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": -0.699855625629425,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7142842411994934
+			},
+			"scale": {
+				"x": 0.9802021980285645,
+				"y": 0.9802021980285645,
+				"z": 1.0
+			},
+			"uuid": "d4idoa33-av69-8jjb-ebv6-xt85nlknk6xh"
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_0_0_0_1/ground_0_0_0_1",
+			"pos": {
+				"x": 1920.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": -8.742277657347586e-8,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.9999998211860657
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "frdpqczq-a8y0-mc42-x2tm-uedp4pfs2k4m"
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_1_0_0_0/ground_1_0_0_0",
+			"pos": {
+				"x": 1920.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.7071056962013245,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071077227592468
+			},
+			"scale": {
+				"x": 0.999997615814209,
+				"y": 0.999997615814209,
+				"z": 1.0
+			},
+			"uuid": "83k83q7x-aeqd-tdbb-m0qp-utid5skit1tt"
+		},
+		{
+			"name": "me_tiles_field/decal/a/002",
+			"pos": {
+				"x": 1824.0,
+				"y": 1324.0001220703126,
+				"z": 255.9998016357422
+			},
+			"rot": {
+				"w": -8.742277657347586e-8,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.9999998211860657
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "4u6tsbnj-qboq-m5oy-e3j7-t1757xhl2ps6"
+		},
+		{
+			"name": "me_tiles_field/decal/e/005",
+			"pos": {
+				"x": 1933.0,
+				"y": 1419.0,
+				"z": 128.0
+			},
+			"rot": {
+				"w": 0.7071038484573364,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071095705032349
+			},
+			"scale": {
+				"x": 0.9999771118164063,
+				"y": 0.9999771118164063,
+				"z": 1.0
+			},
+			"uuid": "fq2cs73k-94nz-5eht-mtwb-v8xfk6z40k9h"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_128_0_128_128",
+			"pos": {
+				"x": 1920.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": -0.7071068286895752,
+				"x": -0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 1,
+				"TopRight": 1,
+				"TopLeft": 1
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_0_1_0_0/ground_0_1_0_0",
+			"pos": {
+				"x": 1920.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": -0.7071068286895752,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "4gtw5rs5-mabr-inm7-jn6m-prexu5bgj4vx"
+		},
+		{
+			"name": "me_tiles_field/decal/ground_1_0_0_0/003",
+			"pos": {
+				"x": 1920.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": -1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -5.960464477539063e-8
+			},
+			"scale": {
+				"x": 0.9999964237213135,
+				"y": 0.9999964237213135,
+				"z": 1.0
+			},
+			"uuid": "5r49w7y7-0iic-om81-clgz-6j8kheaz9sv5"
+		},
+		{
+			"name": "me_tiles_field/decal/d/001",
+			"pos": {
+				"x": 1920.0,
+				"y": 1664.0,
+				"z": 128.0
+			},
+			"rot": {
+				"w": -0.9238795042037964,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.38268372416496279
+			},
+			"scale": {
+				"x": 0.9999995827674866,
+				"y": 0.9999995827674866,
+				"z": 1.0
+			},
+			"uuid": "z6o3fqdf-aysg-224k-fm5h-fxttp6npqyzn"
+		},
+		{
+			"name": "me_tiles_field/ground/tile_0_0_128_128",
+			"pos": {
+				"x": 1920.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.7071067094802856,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071067094802856
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 1,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 1
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_field/decal/ground_1_1_0_0_c/008",
+			"pos": {
+				"x": 1920.0,
+				"y": 1984.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "y2kg6c4y-kn74-uvzk-qgwt-46xkrqzyibsd"
+		},
+		{
+			"name": "me_tiles_field/planebase/ground_1_1_0_0_d/ground_1_1_0_0_d",
+			"pos": {
+				"x": 1920.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9xpybzkl-wqqn-xvwa-ax68-38s1h2h4odpi"
+		},
+		{
+			"name": "me_tiles_field/decal/b/003",
+			"pos": {
+				"x": 1920.0,
+				"y": 1920.0,
+				"z": 128.0
+			},
+			"rot": {
+				"w": 0.7071066498756409,
+				"x": 0.0,
+				"y": 0.0,
+				"z": -0.7071066498756409
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "v0004kky-inj6-4jga-3ndu-lw2hprx6l323"
+		}
+	],
+	"StaticDecorationAttribute": [
+		{
+			"FullPrefabName": "deco/_user/shitaxin_3cwf/model.prefab",
+			"ScenePath": "",
+			"DecoName": "石塔新",
+			"Position3D": {
+				"x": 1048.689208984375,
+				"y": 1494.772705078125,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 0.0,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"Group": "",
+			"Rank": "开始场景/4",
+			"Type": 2
+		}
+	],
+	"LightMap": null
+}

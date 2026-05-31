@@ -1,0 +1,3 @@
+units_to_create = {
+    {name = '$$p_3b4f.unit.主控.root', is_main_hero = 1, use_default_ai = '', team_id = 1, random_model_index = -1, position = {x = 2048.0, y = 1096.9, z = 0.0}, facing = 0, scale = {x = 1.0, y = 1.0, z = 1.0}, scene_path = '', custom_name = '主控', node_mark = '开始场景_1', group = '', rank = '开始场景/5', is_item = false, item_link = '', description = '', invisible = '', unselectable = '', light_baked_enable = false, attribute = {}, },
+}

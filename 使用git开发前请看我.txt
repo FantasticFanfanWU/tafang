@@ -1,0 +1,2 @@
+使用git拉取最新工程后，需要运行项目目录下update_file.bat来重置触发编辑器的状态
+关于git开发的教程和注意事项请看文档：https://doc.sce.xd.com/Manual/AdvancedTutorial/VersionControl/VersionControl
